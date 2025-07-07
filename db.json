@@ -1,14 +1,5 @@
 {
   "posts": [
-    {
-      "id": "1",
-      "title": "Post inicial",
-      "content": "Conteúdo exemplo"
-    },
-    {
-      "id": "6ddc",
-      "title": "Teste 1",
-      "content": "Conteúdo do Teste 1"
-    }
+    { "id": 1, "title": "Post inicial", "content": "Conteúdo exemplo" }
   ]
 }
